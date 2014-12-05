@@ -1,7 +1,12 @@
 AzureML-R-Quick-Start
 =====================
 
-This repository contains the data and code required for the examples in the Quick Start Guide to R in Azure ML Studio. 
+This repository contains the data and code required for the examples in the [Quick Start Guide to R in Azure ML Studio](http://azure.microsoft.com/en-gb/documentation/articles/machine-learning-r-quickstart). 
+
+Companion videos are available:
+
+* [Using R in Azure ML](https://www.youtube.com/watch?v=G0r6v2k49ys). 
+* [Time series model with R in Azure ML](https://www.youtube.com/watch?v=q-PJ3p5C0kY).
 
 The California dairy production and price data is in the file cadairydata.csv. 
 
